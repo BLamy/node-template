@@ -1,0 +1,9 @@
+{
+  "image": "vscode-devcontainer/vscode-devcontainer:latest",
+  "extensions": [
+    "github.copilot",
+    "wallabyjs.wallaby-vscode",
+    "wallabyjs.quokka-vscode"
+  ],
+  "forwardPorts": [3000]
+}
